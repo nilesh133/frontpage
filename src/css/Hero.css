@@ -1,0 +1,42 @@
+.hero__section{
+    display: flex;
+    align-items: center;
+    margin: 3rem 5rem;
+}
+
+.hero__intro{
+    width: 25%;
+    height: 75%;
+    background-color: #1060FF;
+    padding: 2rem 2rem 4rem;
+    transform: translateX(7rem) translateY(4rem) rotate(-4.27deg);
+}
+
+.hero__intro span{
+    transform: rotate(4.27deg);
+}
+
+.hero__intro p{
+    font-size: 0.9rem;
+    color: white;
+    transform: rotate(4.27deg);
+}
+
+.hero__image{
+    width: 850px;
+    height: 450px;
+    object-fit: cover;
+}
+
+.hero__image img{
+    width: 100%;
+    height: 100%;
+}
+
+.hero__btn{
+    background-color: white;
+    padding: 0.7rem 1rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+    transform: translateY(9rem) translateX(-3rem);
+}

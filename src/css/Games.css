@@ -1,0 +1,15 @@
+.games{
+    padding: 6rem 2rem 2rem;
+    width: 18%;
+    transform: rotate(-4.27deg);
+}
+
+.games h1{
+    font-size: 1.3rem;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+
+.games p{
+    font-size: 0.9rem;
+}
